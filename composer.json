@@ -1,0 +1,8 @@
+{
+  "name": "crumbls/theme",
+  "autoload": {
+    "psr-0" : {
+      "Crumbls\\Theme" : "src"
+    }
+  }
+}
